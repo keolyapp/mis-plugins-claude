@@ -1,4 +1,4 @@
-json{
+{
   "name": "mis-plugins-cloud",
   "owner": { "name": "keolyapp" },
   "plugins": [
